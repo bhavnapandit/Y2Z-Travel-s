@@ -157,7 +157,7 @@ A modern, interactive drag-and-drop itinerary planner built with React. Create a
 </span><span>│   ├── ItineraryCard.jsx        # Individual attraction card
 </span><span>│   ├── Header.jsx               # App header component
 </span><span>│   └── DragDropContextProvider.jsx # Drag & drop context
-</span><span>│   └── MapView.jsx # Drag & drop context
+</span><span>│   └── MapView.jsx 
 </span><span>├── data/
 </span><span>│   └── mockItineraryData.js     # Sample data and configuration
 </span><span>├── App.jsx                     # Root application component
